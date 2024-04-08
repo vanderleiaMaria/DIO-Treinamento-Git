@@ -1,0 +1,21 @@
+7 excelentes serviços oferecidos pela AWS que impulsionam a sua jornada na computação em nuvem!
+
+Afinal, quais são esses serviços da AWS?
+
+A Amazon Web Services (AWS) é uma ampla variedade de serviços de computação que abrange desde aplicações simples até servidores virtuais e computação sem servidor. Proporcionando flexibilidade e economia.
+
+Com AWS você pode dimensionar suas necessidades de computação conforme sua carga de trabalho. A escalabilidade é incorporada aos serviços de computação para que seja fácil ampliar a escala conforme a demanda aumenta ou diminui.
+
+Os 7 excelentes serviços da AWS
+•	O que é o Amazon EC2?
+•	O que é Amazon S3
+•	O que é Amazon Lambda
+•	O que é Amazon RDS
+•	O que é DynamoDB
+•	O que é AWS IAM
+•	O que é Amozon VPC
+
+O Amazon EC2 disponibiliza vários tipos de instâncias de servidor virtual adequados para diversas finalidades, proporcionando liberdade em relação às especificações de hardware. Essa flexibilidade total permite a execução de aplicações em qualquer escala, garantindo controle sobre o seu ambiente e a capacidade de ajustar recursos de forma econômica, conforme as suas necessidades.
+
+Continua...
+
